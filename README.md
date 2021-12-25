@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on Discord Mass Ban Tool
 - 🌱 I’m currently learning HackTheBox
 - 📫 How to reach me: [Instagram](https://www.instagram.com/greko.south/) [YouTube](https://www.youtube.com/c/GrekoGSH)
-- 😄 Pronouns: He/Him
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pregreko&show_icons=true&theme=radical)
