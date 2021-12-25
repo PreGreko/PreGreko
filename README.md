@@ -1,5 +1,5 @@
 # Hello, If You Are Here Means That You Are A Skid #
-- 🔭 I’m currently working on Discord Mass Ban Tool and License System Linux Files
+- 🔭 I’m currently working on Discord Mass Ban Tool and License System For Linux Files 
 - 🌱 I’m currently learning HackTheBox
 - 📫 How to reach me: [Instagram](https://www.instagram.com/greko.south/) [YouTube](https://www.youtube.com/c/GrekoGSH)
 
